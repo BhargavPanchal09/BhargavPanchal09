@@ -15,10 +15,11 @@ I’m a full-stack developer focused on building modern web applications with Re
 ## ☁️ AWS Certifications
 
 <p align="center">
-
-<img src="./aws-academy-graduate-data-engineering-training-badg.png" width="300"/>
-
-<img src="./aws-academy-graduate-machine-learning-foundations-t.png" width="300"/>
-
+<a href="https://www.credly.com/badges/16e079f4-c5e5-4d29-abe0-b299e5d2d05a/public_url" target="_blank">
+    <img src="./aws-academy-graduate-data-engineering-training-badg.png" width="350"/>
+</a>
+<a href="https://www.credly.com/badges/3c12e930-94e8-4771-afbd-27d6a0f0cfcb/public_url" target="_blank">
+    <img src="./aws-academy-graduate-machine-learning-foundations-t.png" width="350"/>
+</a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
