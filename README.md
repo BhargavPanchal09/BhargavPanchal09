@@ -12,4 +12,13 @@ I’m a full-stack developer focused on building modern web applications with Re
 ![](https://streak-stats.demolab.com/?user=BhargavPanchal09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhargavPanchal09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## ☁️ AWS Certifications
+
+<p align="center">
+
+<img src="./aws-academy-graduate-data-engineering-training-badg.png" width="300"/>
+
+<img src="./aws-academy-graduate-machine-learning-foundations-t.png" width="300"/>
+
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
