@@ -24,5 +24,9 @@ I’m a full-stack developer focused on building modern web applications with Re
 <a href="https://www.credly.com/badges/8db66c1a-3137-4f3f-885c-9ee229934f8c/public_url" target="_blank">
     <img src="aws-academy-graduate-generative-ai-foundations-trai.png" width="350"/>
 </a>
+</a>
+<a href="https://www.credly.com/badges/87551c86-7a22-4ecb-80c2-5528d3eafb7a/public_url" target="_blank">
+    <img src="aws-academy-graduate-machine-learning-for-natural-l.png" width="350"/>
+</a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
